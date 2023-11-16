@@ -1,0 +1,9 @@
+  @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;200;300;400;500;600;700;800;900&display=swap');
+  body{
+    background-color: white;
+    font-family: 'Vazirmatn', sans-serif;
+  }
+  input{
+    background-color:rgba(128, 128, 128, 0.141);
+  }
+
